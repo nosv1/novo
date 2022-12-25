@@ -1,0 +1,5 @@
+geometry_msgs/Point current_position
+Map[] maps  # in sorted order newest to oldest
+TrackedObject[] tracked_objects
+---
+Path path

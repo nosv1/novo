@@ -1,0 +1,2 @@
+nav2_msgs/CostmapMetaData meta_data
+nav2_msgs/Costmap data
